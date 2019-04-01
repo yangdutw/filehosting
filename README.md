@@ -1,2 +1,2 @@
 # filehosting
-It's for file sharing
+This repo is for file sharing purpose. 
